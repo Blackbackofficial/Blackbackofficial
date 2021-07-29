@@ -2,21 +2,25 @@
 
 <!--
 how to make this gif ?
-
 I made my with vue 
 Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
 -->
 
-<div style="float: left; width: 49%; padding: 15px 0px 0px 0px;">
-    <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=material-palenight"/>
-</div>
-<div style="float: right; width: 49%; padding: 15px 0px 0px 0px;">
-    <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight"/>
-</div>
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <td valign="top">
+            <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=material-palenight"/>
+        </td>
+        <td valign="top">
+            <img style="padding 10px;" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight"/>
+        </td>
+    </tr>
+</table>
 
-<div style="padding: 0px 0px 0px;">
-    <p align="center" style="margin-left: auto;margin-right: auto; width: 48%;"><img alt="Blackback's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbackofficial&hide_border=false&layout=compact&theme=material-palenight"/></p>
-</div>
+
+<p align="center">
+    <img alt="Blackback's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbackofficial&hide_border=false&layout=compact&theme=material-palenight"/>
+</p>
 
 
 ### Languages
