@@ -1,19 +1,22 @@
 <img align='right' src='https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif'>
 
+<!--
+how to make this gif ?
 
-<div style="float: left; width: 49%; padding 10%;">
+I made my with vue 
+Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
+-->
+
+<div style="float: left; width: 49%; padding: 15px 0px 0px 0px;">
     <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=material-palenight"/>
 </div>
-<div style="float: right; width: 49%">
-    <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight" /></a>
+<div style="float: right; width: 49%; padding: 15px 0px 0px 0px;">
+    <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight"/>
 </div>
 
-
-
-
-<p align="center">
-    <img alt="Blackback's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbackofficial&hide_border=false&layout=compact&theme=material-palenight" />
-</p>
+<div style="padding: 0px 0px 0px;">
+    <p align="center" style="margin-left: auto;margin-right: auto; width: 48%;"><img alt="Blackback's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbackofficial&hide_border=false&layout=compact&theme=material-palenight"/></p>
+</div>
 
 
 ### Languages
@@ -36,5 +39,5 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Blackbackofficial)
