@@ -1,22 +1,13 @@
 <img align='right' src='https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif'>
 
-<noscript>
-      <strong>We're sorry but codesandbox doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
 
-<div style="border: 0px solid #000000;">
-<table>
-    <tr>
-        <td valign="top">
-            <img alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=material-palenight"/>
-        </td>
-        <td valign="top">
-            <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight" /></a>
-        </td>
-    </tr>
-</table>
+<div style="float: left; width: 49%; padding 10%;">
+    <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=material-palenight"/>
 </div>
+<div style="float: right; width: 49%">
+    <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight" /></a>
+</div>
+
 
 
 
