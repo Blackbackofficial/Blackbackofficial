@@ -1,14 +1,11 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Blackbackofficial/Blackbackofficial/master/gifs/Hi.gif" width="30px"></h2>
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif)
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif'>
 
 <noscript>
       <strong>We're sorry but codesandbox doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
 
-
+<div style="border: 0px solid #000000;">
 <table>
     <tr>
         <td valign="top">
@@ -19,6 +16,7 @@
         </td>
     </tr>
 </table>
+</div>
 
 
 
