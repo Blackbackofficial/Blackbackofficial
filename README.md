@@ -39,7 +39,7 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-### Dev Ops
+### Technology
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
