@@ -1,15 +1,18 @@
 <img align='right' src='https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif' alt="Short description">
+<table frame="void" width="100">
+<tr>
+</tr>
+<tr>
+<td>
+	<img alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=buefy"/>
+</td>
+<td>
+	<img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=buefy"/>
+</td>
+</tr>
+</table>
 
 <!-- how to make this gif ? I made my with vue Then I recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639 -->
-
-<div class="all">
-    <div class="left">
-        <img alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=buefy"/>
-    </div>
-    <div class="right">
-        <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=buefy"/>
-    </div>
-</div>
 
 <!-- <p align="center">
     <img alt="Blackback's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbackofficial&hide_border=false&layout=compact&theme=material-palenight"/> https://codesandbox.io/s/github-profile-2ijk7?file=/src/main.js
