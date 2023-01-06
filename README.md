@@ -1,22 +1,15 @@
-<img align='right' src='https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif'>
+<img align='right' src='https://github.com/Blackbackofficial/Blackbackofficial/raw/main/img/Iam.gif' alt="Short description">
 
-<!--
-how to make this gif ?
-I made my with vue 
-Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
--->
+<!-- how to make this gif ? I made my with vue Then I recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639 -->
 
-<table cellspacing="0" cellpadding="0">
-    <tr>
-        <td valign="top">
-            <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=buefy"/>
-        </td>
-        <td valign="top">
-            <img style="padding 10px;" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=buefy"/>
-        </td>
-    </tr>
-</table>
-
+<div style="float: top; width: 100%;">
+    <div style="float: left; width: 50%;">
+        <img alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=buefy"/>
+    </div>
+    <div style="float: right; width: 50%;">
+        <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=buefy"/>
+    </div>
+</div>
 
 <!-- <p align="center">
     <img alt="Blackback's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackbackofficial&hide_border=false&layout=compact&theme=material-palenight"/> https://codesandbox.io/s/github-profile-2ijk7?file=/src/main.js
@@ -50,6 +43,7 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Others
 
@@ -58,3 +52,17 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### Social
+<a href="https://www.linkedin.com/in/ivan%D1%81hernov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/iva.chernov/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="https://leetcode.com/Blackbackofficial/">
+	<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+</a>
+<a href="mailto:chernov0ivan.1997@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
