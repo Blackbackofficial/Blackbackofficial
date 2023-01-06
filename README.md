@@ -2,11 +2,11 @@
 
 <!-- how to make this gif ? I made my with vue Then I recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639 -->
 
-<div style="float: top; width: 100%;">
-    <div style="float: left; width: 50%;">
+<div class="all">
+    <div class="left">
         <img alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=buefy"/>
     </div>
-    <div style="float: right; width: 50%;">
+    <div class="right">
         <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=buefy"/>
     </div>
 </div>
