@@ -9,10 +9,10 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 <table cellspacing="0" cellpadding="0">
     <tr>
         <td valign="top">
-            <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=material-palenight"/>
+            <img style="padding 10px;" alt="Blackback's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blackbackofficial&show_icons=true&theme=buefy"/>
         </td>
         <td valign="top">
-            <img style="padding 10px;" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=material-palenight"/>
+            <img style="padding 10px;" alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=Blackbackofficial&theme=buefy"/>
         </td>
     </tr>
 </table>
